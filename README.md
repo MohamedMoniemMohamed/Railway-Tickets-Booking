@@ -1,2 +1,2 @@
 # Railway-reserve-ticket
-A program to help people book train tickets without going to the station
+Software helps people book railway tickets online.
